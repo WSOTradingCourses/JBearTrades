@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>JBearTrades Futures Scalping Course</title>
 </head>
 <body style="font-family: Arial, sans-serif; padding: 20px; background-color: #f9f9f9;">
 
